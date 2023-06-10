@@ -1,0 +1,5 @@
+{"userName":"Oleh","userGender":"male","userAge":"19"}
+{"userName":"Vika","userGender":"female","userAge":"20"}
+{"userName":"Andriy","userGender":"male","userAge":"40"}
+{"userName":"Ivan","userGender":"male","userAge":"23"}
+{"userName":"Artem","userGender":"male","userAge":"54"}
